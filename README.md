@@ -1,2 +1,3 @@
 # russian-names-declension
-declension of Russian names
+Библиотека склонения русских ФИО. 
+2 варианта: в в иде класса и в виде функции. 
